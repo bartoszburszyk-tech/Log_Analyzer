@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/bubix/repos/Log_Analyzer/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

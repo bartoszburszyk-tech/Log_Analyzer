@@ -1,0 +1,8 @@
+# ninja log v7
+0	534	1774262973570661282	CMakeFiles/log_analyzer.dir/src/main.cpp.o	355dcec851cde478
+1	589	1774262973570826851	CMakeFiles/run_tests.dir/tests/test_main.cpp.o	34e90ac228dd2b76
+0	898	1774262973570551573	CMakeFiles/analyzer_lib.dir/src/ReportGenerator.cpp.o	e0d72c8d161ecc74
+0	2154	1774262973569264041	CMakeFiles/analyzer_lib.dir/src/LogParser.cpp.o	11495d340a5a1a56
+2154	2209	1774262975723257022	libanalyzer_lib.a	ee69eb9eb9341fc0
+2209	2299	1774262975779023642	run_tests	36ec19d57fcb91f
+2209	2301	1774262975778256843	log_analyzer	40e11a419d91a438

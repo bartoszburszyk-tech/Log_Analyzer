@@ -1,0 +1,21 @@
+SERVER LOG ANALYSIS REPORT
+==========================
+
+Total requests : 9
+Total errors   : 9
+Client errors  : 5
+Server errors  : 4
+Error rate     : 100.00%
+
+STATUS CODES:
+  403 -> 1
+  404 -> 4
+  500 -> 3
+  503 -> 1
+
+TOP FAILING ENDPOINTS:
+  /admin -> 1 errors
+  /api/orders -> 1 errors
+  /api/orders/7 -> 1 errors
+  /api/payment -> 1 errors
+  /api/payment/status -> 1 errors

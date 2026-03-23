@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20260323-1048-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.2.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="fedora.home"
+	OSRelease="6.19.8-200.fc43.x86_64"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Fri Mar 13 22:06:06 UTC 2026"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="140"
+	ModelName="11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="7725"
+	TotalPhysicalMemory="7726"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3800"
+	>
+	<Testing>
+		<StartDateTime>Mar 23 12:20 CET</StartDateTime>
+		<StartTestTime>1774264841</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 23 12:20 CET</EndDateTime>
+		<EndTestTime>1774264841</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Log Analyzer",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/log_analyzer",
+            "args": ["${workspaceFolder}/logs/sample.log", "--errors-only"],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "terminal": "integrated"
+        },
+        {
+            "name": "Run Tests",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/run_tests",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "terminal": "integrated"
+        }
+    ]
+}

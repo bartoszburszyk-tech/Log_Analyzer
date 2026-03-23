@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/bubix/repos/Log_Analyzer/build",
+  "command": "/usr/bin/g++ -I/home/bubix/repos/Log_Analyzer/include -g -std=gnu++17 -o CMakeFiles/analyzer_lib.dir/src/LogParser.cpp.o -c /home/bubix/repos/Log_Analyzer/src/LogParser.cpp",
+  "file": "/home/bubix/repos/Log_Analyzer/src/LogParser.cpp",
+  "output": "/home/bubix/repos/Log_Analyzer/build/CMakeFiles/analyzer_lib.dir/src/LogParser.cpp.o"
+},
+{
+  "directory": "/home/bubix/repos/Log_Analyzer/build",
+  "command": "/usr/bin/g++ -I/home/bubix/repos/Log_Analyzer/include -g -std=gnu++17 -o CMakeFiles/analyzer_lib.dir/src/ReportGenerator.cpp.o -c /home/bubix/repos/Log_Analyzer/src/ReportGenerator.cpp",
+  "file": "/home/bubix/repos/Log_Analyzer/src/ReportGenerator.cpp",
+  "output": "/home/bubix/repos/Log_Analyzer/build/CMakeFiles/analyzer_lib.dir/src/ReportGenerator.cpp.o"
+},
+{
+  "directory": "/home/bubix/repos/Log_Analyzer/build",
+  "command": "/usr/bin/g++ -I/home/bubix/repos/Log_Analyzer/include -g -std=gnu++17 -o CMakeFiles/log_analyzer.dir/src/main.cpp.o -c /home/bubix/repos/Log_Analyzer/src/main.cpp",
+  "file": "/home/bubix/repos/Log_Analyzer/src/main.cpp",
+  "output": "/home/bubix/repos/Log_Analyzer/build/CMakeFiles/log_analyzer.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/bubix/repos/Log_Analyzer/build",
+  "command": "/usr/bin/g++ -I/home/bubix/repos/Log_Analyzer/include -g -std=gnu++17 -o CMakeFiles/run_tests.dir/tests/test_main.cpp.o -c /home/bubix/repos/Log_Analyzer/tests/test_main.cpp",
+  "file": "/home/bubix/repos/Log_Analyzer/tests/test_main.cpp",
+  "output": "/home/bubix/repos/Log_Analyzer/build/CMakeFiles/run_tests.dir/tests/test_main.cpp.o"
+}
+]
